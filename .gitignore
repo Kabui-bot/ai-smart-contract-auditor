@@ -1,5 +1,6 @@
 Environment variables - NEVER commit this file!
 .env
+OPENAI_API_KEY="sk-ijklmnop1234qrstijklmnop1234qrstijklmnop"
 
 Python virtual environment
 venv/
